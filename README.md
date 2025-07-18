@@ -25,11 +25,13 @@ A clean, responsive expense tracker built with React (Phase 1: static version).
 
 ---
 
-## 🌱 Future Enhancements
-This version is static. Next phase - planned features for a dynamic version:
-- Enable adding and deleting transactions with `useState`
-- Store data in localStorage for persistence across sessions
-- Implement basic input validation for transaction form
+
+### 🌱 Future Enhancements
+
+Phase 2 will transition this static prototype into a dynamic app:  
+- Add/remove transactions with React state (`useState`)  
+- Persist data via localStorage or API integration  
+- Improve UI/UX with accessibility and animations
 
 
 ---
