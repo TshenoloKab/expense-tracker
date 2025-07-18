@@ -1,6 +1,6 @@
 # 💸 Expense Tracker
 
-A clean and responsive expense tracker built with React. 
+A clean, responsive expense tracker built with React (Phase 1: static version).
 
 ---
 
