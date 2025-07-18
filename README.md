@@ -1,8 +1,35 @@
-# React + Vite
+# 💸 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive expense tracker built with React. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🚀 Features
+- 📊 View static balance, income, and expenses
+- 🖥 Responsive design for desktop & mobile
+- 🎨 Simple|clean|modern layout
+
+---
+
+## 🛠️ Tech Stack
+- React 
+- JavaScript 
+- CSS 
+
+---
+
+
+## 🚀 Live Demo 
+👉 [Expense Tracker Live](https://expense-tracker-tkdev.netlify.app/)
+
+---
+
+## 🌱 Future Enhancements
+This version is static. Next phase - planned features for a dynamic version:
+- Enable adding and deleting transactions with `useState`
+- Store data in localStorage for persistence across sessions
+- Implement basic input validation for transaction form
+
+
+---
